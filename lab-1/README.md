@@ -14,8 +14,8 @@ This is a solution to the [C33-Demo]
 
 ### Screenshot
 
-![](./images/Desktop.png)
-![](./images/Mobile.png)
+![](./images/Desktop-view.png)
+![](./images/Mobile-view.png)
 
 ## My process
 
