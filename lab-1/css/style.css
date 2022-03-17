@@ -1,0 +1,110 @@
+body {
+    height: 100%;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 2em;
+}
+
+.flex-row {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 100%;
+}
+
+.flex-col {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.flex-centered {
+    align-items: center;
+    justify-content: center;
+}
+
+.flex-start {
+    align-items: center;
+    justify-content: start;
+}
+
+.flex-end {
+    align-items: center;
+    justify-content: end;
+}
+
+.flex-space-around {
+    align-items: center;
+    justify-content: space-around;
+}
+
+.flex-space-between {
+    align-items: center;
+    justify-content: space-between;
+}
+
+.flex-space-evenly {
+    justify-content: space-evenly;
+}
+
+hr {
+    border: 1px solid rgba(181, 181, 177, 255);
+    width: 100%;
+
+}
+
+.featured-work-text {
+    margin-right: auto;
+    text-align: right;
+    font-size: 3em;
+    color: rgba(181, 185, 185, 255);
+}
+
+.name-text {
+    color: #8e9085;
+}
+
+.work-title {
+    color: #5d604f;
+    font-size: 1.5em;
+}
+
+.work-link,
+.work-link a {
+    color: #9c9ea1;
+    font-size: 1em;
+}
+
+.job-title-text {
+    color: #756d54;
+    text-align: end;
+}
+
+.banner {
+    margin: 1em;
+}
+
+.banner,
+.banner img {
+    width: 100%;
+
+}
+
+figure {
+    text-align: center;
+}
+
+.project-image {
+    width: 100%;
+}
+
+.flex-wrap {
+    flex-wrap: wrap;
+}
