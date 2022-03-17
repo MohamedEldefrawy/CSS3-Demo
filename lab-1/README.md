@@ -1,4 +1,4 @@
-# Frontend Mentor - QR code component solution
+# CSS3 - Demo 1
 
 This is a solution to the [C33-Demo]
 
